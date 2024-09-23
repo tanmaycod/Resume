@@ -97,21 +97,6 @@
 
 ---
 
-<h2 align="left">📈 GitHub Stats:</h2>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmaycod&show_icons=true&theme=radical" alt="Tanmay's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaycod&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaycod&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <h2 align="left">🌐 Let's Connect!</h2>
 
