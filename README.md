@@ -1,3 +1,4 @@
+<link rel ="stylesheet" href="https://github.com/tanmaycod/Resume/blob/c8935da355fbe4bf1a6bf1b4e5934c24f35b2ea5/style.css">
 # Hi, I'm Tanmay Santosh Patil! 👋
 
 ## 🎓 **B.Tech. in Computer Science & Engineering**
